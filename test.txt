@@ -1,0 +1,9 @@
+énoncé devoir :
+créer des commits sur la branche master
+revenir un peu en arrière pour créer un tag v.1 sur un commit
+créer une branche maintenance sur ce tag
+à partir de cette branche créer 2 autre branches dev1 et dev2, dev2 étant un clone
+faire des commit dans ces branches et créer un conflit lors du merge sur la branche maintenance des dev1 et dev2
+rectifier le conflit
+merger la branche maintenance sur la branche master en créant un conflit
+rectifier ce conflit
