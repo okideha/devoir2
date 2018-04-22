@@ -1,0 +1,27 @@
+h1{
+    color:brown;
+    font-size:40px;
+    margin:50px 35px 50px 35px;
+text-align: center;
+    border: 2px dashed black;
+}
+h2{font-size:35px;
+    text-transform:uppercase;
+    font-family: 'Indie Flower','georgia', cursive;
+    color:brown;}
+img{
+    width:85px;
+}
+body{
+    background-color: grey;
+    color:#171332;
+}
+p{
+    color:#323232;
+}
+.jaune{
+    color:yellow;
+}
+
+li{color:blue;}
+
